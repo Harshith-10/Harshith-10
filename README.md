@@ -1,6 +1,5 @@
 # Hi there! Welcome to my GitHub Profile.
-### I'm a self-taught passionate Java programmer.
 - 🏫 Studying at Institute of Aeronautical Engineering, Hyderabad.
-- 🛠️ Knows Java, Android App Development.
-- 💻 Has a lot of experience in Android, sadly no certifications yet.
+- 🛠️ Java, Kotlin, Python, AI & ML.
+- 💻 Certified AI Trainee from SkillVertex.
 - 📧 Email: harshith.doddipalli@outlook.com
