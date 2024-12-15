@@ -1,5 +1,4 @@
 # Hi there! Welcome to my GitHub Profile.
 - 🏫 Studying at Institute of Aeronautical Engineering, Hyderabad.
-- 🛠️ Java, Kotlin, Python, AI & ML.
-- 💻 Certified AI Trainee from SkillVertex.
+- 🛠️ Java, Kotlin, Python, C#, C, C++, AI, ML & Blockchain Technology.
 - 📧 Email: harshith.doddipalli@outlook.com
