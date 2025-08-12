@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on [AcademyX](https://github.com/AcademyX)
-- 🌱 Learning **Machine Learning with Python, ReactJS, and NextJS**
-- 💬 Expertise in **Jetpack Compose, LLMOps**
+- 🔭 Currently working on [BuildIT](https://github.com/Harshith-10/build-it) & [Sentinel](https://github.com/Harshith-10/sentinel)
+- 🌱 Learning **Rust, Docker and Kubernetes**
+- 💬 Expertise in **Vibe Coding** 🤣
 - 📫 Reach me at **harshith.doddipalli@outlook.com**
 - 👨‍💻 Check out my projects at [GitHub](https://github.com/Harshith-10?tab=repositories)
 - 📄 View my professional experience on [LinkedIn](https://linkedin.com/in/harshith-doddipalli)
