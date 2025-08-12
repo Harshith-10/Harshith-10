@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏🏻, I'm Harshith Doddipalli</h1>
-<h3 align="center">A passionate software engineer and insanely fast learner</h3>
+<h3 align="center">A passionate software engineer and an insanely fast learner</h3>
 
 <div align="center">
   
